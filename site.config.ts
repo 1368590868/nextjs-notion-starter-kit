@@ -7,7 +7,7 @@ export default siteConfig({
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'Larrsa  Life  Article',
   domain: 'next.irlin.cn',
   author: 'Mu Mu',
 
